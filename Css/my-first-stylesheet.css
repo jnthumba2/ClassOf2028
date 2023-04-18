@@ -1,0 +1,19 @@
+body {
+font-family: 'Times New Roman', Times, serif;
+}
+head { font-size: 10px;}
+p {
+    border: 3px solid cadetblue;
+    padding: 30px ;
+}
+h1 {
+    text-align: center
+
+
+}
+a:hover,a:active,a:visited,a:link {
+    background-color: aqua;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 150%
+}
